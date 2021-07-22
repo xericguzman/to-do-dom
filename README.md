@@ -18,7 +18,7 @@
 
 ## Stretch goals
 
-* Try incorporating [Bootstrap components](https://getbootstrap.com/docs/5.0/components/) in your application
+* Try incorporating [Bootstrap components](https://getbootstrap.com/docs/5.0/components/) into your application
 * Allow users to clear all to-do items
 * Allow users to delete individual to-do items
 * Allow users to edit existing to-do items
