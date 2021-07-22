@@ -14,10 +14,10 @@
 * Your project is hosted on GitHub Pages
 * Users have the ability to add new to-do items
 * Users have the ability to view to-do items
+* Allow users to clear all to-do items
 
 ## Stretch goals
 
 * Users have the ability to toggle the completion of to-do items
-* Allow users to clear all to-do items
 * Allow users to delete individual to-do items
 * Allow users to edit existing to-do items
